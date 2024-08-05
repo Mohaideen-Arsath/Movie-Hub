@@ -87,6 +87,6 @@ Note: Double-check that the TMDB API key and Firebase authentication configurati
 
 # 🎞️ Experience MovieHUB Live!
 
-- Immerse yourself in the magic of movies at our live demo: [MovieHUB Live Demo](https://moviehub23.netlify.app)
+- Immerse yourself in the magic of movies at our live demo: [MovieHUB Live Demo](https://movie-hub-snowy-tau.vercel.app)
 
 MovieHUB - Uniting Movie Lovers, One Film at a Time! 🎉
